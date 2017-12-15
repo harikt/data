@@ -29,6 +29,14 @@
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
 			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.rawgit.com/harikt/data/6281af96512c1d65a14956945cfc08cb5dcd709f/portfolio/images/unnamed.png",
+			"name": "Unnamed"
+		},
+		{
+			"image": "https://cdn.rawgit.com/harikt/data/74d5b51bf49248bb7716516aea9268b359963414/portfolio/images/OIo-sm.jpg",
+			"name": "OIo sm"
 		}
 	]
 }
